@@ -288,4 +288,5 @@ for (let i = 0; i < numArrays.length; i++) {
     total = total + numArrays[i][j]
   }
 }
+
 console.log("Exercise 15 result:\n", total)
